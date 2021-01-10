@@ -51,7 +51,7 @@ To find your information, you must sign up for a free trial here:
 
 Opt out here: [http://www.archives.com/?\_act=Optout](http://www.archives.com/?_act=Optout)
 
-### ☠ BeenVerified
+### ☠ BeenVerified :hammer:
 Find your information and opt out here:
 
 [https://www.beenverified.com/app/optout/search](https://www.beenverified.com/app/optout/search)
@@ -212,7 +212,7 @@ to see if they offer privacy options, such as not listing your number on caller 
 ### Consider opting out of direct marketing and telemarketing.
 This list, compiled by Griffin Boyce, has a lot of information on doing so: [https://github.com/glamrock/data-brokers/blob/master/data-brokers.md](https://github.com/glamrock/data-brokers/blob/master/data-brokers.md). A good place to start is to opt out at the Direct Marketing Association. [https://dmachoice.thedma.org/register.php](https://dmachoice.thedma.org/register.php), which costs $2 for 10 years.
 
-### Opt out of prescreened credit offers
+### Opt out of prescreened credit offers :hammer:
 Follow the instructions at [https://www.optoutprescreen.com/](https://www.optoutprescreen.com/)
 
 ### Get on the Do Not Call Registry
